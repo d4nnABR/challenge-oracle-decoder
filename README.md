@@ -33,7 +33,6 @@ Este proyecto es una aplicación web que permite realizar un **sorteo de Amigo S
 - **HTML** → Estructura de la aplicación.  
 - **CSS** → Estilos y diseño responsivo.  
 - **JavaScript Vanilla** → Lógica del sorteo y validaciones.  
-- **SweetAlert2** → Ventanas emergentes con alertas elegantes.  
 
 ## 🚀 Instalación y Uso  
 
