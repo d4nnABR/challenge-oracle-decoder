@@ -42,7 +42,7 @@ Este proyecto es una aplicación web que permite realizar un **sorteo de Amigo S
    git clone [https://github.com/d4nnABR/challenge-oracle-decoder.git]
 
 Abre el archivo index.html en tu navegador.
-¡Comienza el sorteo! 🎁
+¡Comienza el sorteo! 🏁
 🔹 Opción 2: Probar la demo en línea
 🔗 Prueba la aplicación aquí
 
